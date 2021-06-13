@@ -25,4 +25,4 @@ Instead of building a chain of class inheritance, I decided to implement the mod
 
 ### Model architecture
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/5643444/232246660-6ce5e721-5422-46f8-b5a9-49540491581a.png)
