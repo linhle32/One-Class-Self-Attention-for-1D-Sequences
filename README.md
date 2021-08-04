@@ -1,5 +1,7 @@
 # One-class Self-attention for Anomaly Detection in 1D Sequences
 
+<b>*** Update 8/4/2021: my paper has been published at https://link.springer.com/chapter/10.1007/978-3-030-82196-8_20 </b>
+
 This repository consists of my implementation for One-Class Self-Attention model for anomaly detection in 1D sequences. Unfortunately, this one is code only because the research is in collaboration with an industrial partner whose data I cannot publish. 
 
 ### Libraries
