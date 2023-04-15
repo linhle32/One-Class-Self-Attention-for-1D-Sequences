@@ -13,7 +13,7 @@ This repository consists of my implementation for One-Class Self-Attention model
 
 There are three (or four) deep learning models implemented for the task:
 - 1D-CNN Auto-Encoder: standard model for benchmarking. Transforms 1D sequences into embedded vectors. Anomalies are detected by determining sequences that decoded versions are too different from originals. 
-- Deep One-Class Classifier - implementation of the model in <i>Ruff, L., Vandermeulen, R., Goernitz, N., Deecke, L., Siddiqui, S. A., Binder, A., & Kloft, M. (2018, July). Deep one-class classification. In International conference on machine learning (pp. 4393-4402). PMLR. </b> Maps 1D sequences to a vector space where regular instances are within a hyper-sphere and anomalies outside of that.
+- Deep One-Class Classifier - implementation of the model in <i>Ruff, L., Vandermeulen, R., Goernitz, N., Deecke, L., Siddiqui, S. A., Binder, A., & Kloft, M. (2018, July). Deep one-class classification. In International conference on machine learning (pp. 4393-4402). PMLR. </i> Maps 1D sequences to a vector space where regular instances are within a hyper-sphere and anomalies outside of that.
 - One-class self-attention: my model, two versions
     1. LeakyReLU output with regular centers
     2. Sigmoid output without centers
